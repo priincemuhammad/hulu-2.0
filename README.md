@@ -1,1 +1,5 @@
-# hulu 2.0 with next.js
+# hulu 2.0
+- react.js
+- next.js
+- Tailwindcss
+- TMDB APis
